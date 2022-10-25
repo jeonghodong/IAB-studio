@@ -181,7 +181,7 @@ header .container ul li {
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(7):hover .img {
-  background: url(../img/) center center;
+  background: url(../img/list-hover7.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
