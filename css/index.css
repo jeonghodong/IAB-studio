@@ -57,6 +57,7 @@ header .container ul li {
   top: -100px;
   left: 50%;
   transform: translateX(-50%);
+  max-width: 80%;
 }
 #section1 .container .text {
   position: absolute;
