@@ -106,7 +106,7 @@ header .container ul li {
 
 /* image */
 #section2 .container ul li:nth-child(1) .img {
-  background: url(../img/list1.jpg) center center;
+  background: url(/img/list1.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(2) .img {
