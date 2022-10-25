@@ -106,39 +106,39 @@ header .container ul li {
 
 /* image */
 #section2 .container ul li:nth-child(1) .img {
-  background: url(/img/list1.jpg) center center;
+  background: url(../img/list1.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(2) .img {
-  background: url(/img/list2.jpg) center center;
+  background: url(../img/list2.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(3) .img {
-  background: url(/img/list3.jpg) center center;
+  background: url(../img/list3.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(4) .img {
-  background: url(/img/list4.jpg) center center;
+  background: url(../img/list4.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(5) .img {
-  background: url(/img/list5.jpg) center center;
+  background: url(../img/list5.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(6) .img {
-  background: url(/img/list6.jpg) center center;
+  background: url(../img/list6.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(7) .img {
-  background: url(/img/list7.jpg) center center;
+  background: url(../img/list7.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(8) .img {
-  background: url(/img/list8.jpg) center center;
+  background: url(../img/list8.jpg) center center;
   background-size: cover;
 }
 #section2 .container ul li:nth-child(9) .img {
-  background: url(/img/list9.jpg) center center;
+  background: url(../img/list9.jpg) center center;
   background-size: cover;
 }
 
@@ -151,47 +151,47 @@ header .container ul li {
 
 /* image hover */
 #section2 .container ul li:nth-child(1):hover .img {
-  background: url(/img/list-hover1.jpg) center center;
+  background: url(../img/list-hover1.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(2):hover .img {
-  background: url(/img/list-hover2.jpg) center center;
+  background: url(../img/list-hover2.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(3):hover .img {
-  background: url(/img/list-hover3.jpg) center center;
+  background: url(../img/list-hover3.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(4):hover .img {
-  background: url(/img/list-hover4.jpg) center center;
+  background: url(../img/list-hover4.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(5):hover .img {
-  background: url(/img/list-hover5.jpg) center center;
+  background: url(../img/list-hover5.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(6):hover .img {
-  background: url(/img/list-hover6.jpg) center center;
+  background: url(../img/list-hover6.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(7):hover .img {
-  background: url(/img/list-hover7.jpg) center center;
+  background: url(../img/) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(8):hover .img {
-  background: url(/img/list-hover8.jpg) center center;
+  background: url(../img/list-hover8.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
 #section2 .container ul li:nth-child(9):hover .img {
-  background: url(/img/list-hover9.jpg) center center;
+  background: url(../img/list-hover9.jpg) center center;
   background-size: cover;
   transition-duration: 0.5s;
 }
