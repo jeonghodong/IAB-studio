@@ -74,6 +74,9 @@ header .container ul li {
   font-weight: bold;
   font-family: "Poppins", sans-serif;
 }
+#seciton1 video {
+  width: 100vw;
+}
 
 /* section2 */
 #section2 .container h2 {
